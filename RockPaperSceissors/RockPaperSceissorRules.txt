@@ -1,0 +1,12 @@
+What are the shapes of Rock Paper Scissors?
+
+ROCK:
+The rock is when you place your hand into the form of a simple fist.
+
+
+PAPER:
+The paper is when you place your hand in an outstretched position.
+
+
+SCISSORS:
+This is when you hold your fist with your index and middle finger pointing outwards in a V shape.
