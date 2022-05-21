@@ -29,7 +29,6 @@ scissors = '''
       (____)
 ---.__(___)
 '''
-# Write your code below this line 👇
 game_image = [rock, paper, scissors]
 
 print("Lets Play Rock-Paper-Scissor")
